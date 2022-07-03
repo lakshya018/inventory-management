@@ -1,0 +1,32 @@
+#allitems{
+    display: flex;
+}
+.card{
+    display: flex;
+    width: 20rem;
+
+
+  
+}
+.cardImg{
+    text-align: left;
+}
+.card-body{
+    text-align: center;
+    width: 100%;
+}
+.cardBtn {
+text-align: center;
+width: 100%;
+align-items: center;
+   
+}
+.card-text{
+    text-align: justify !important;
+}
+#searchDevice{
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+    text-align: center;
+}
