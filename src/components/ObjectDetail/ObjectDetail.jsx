@@ -1,4 +1,3 @@
-import { useLocation } from 'react-router-dom'
 import './ObjectDetail.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 const ObjectDetail = () => {

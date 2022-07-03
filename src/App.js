@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './components/Home/Home';
 import ListingPage from './components/ListingPage/ListingPage';
@@ -11,7 +10,7 @@ function App() {
       <Routes path="/" >
         <Route index element={<Home/>}/>
         <Route path="listingPage" element = {<ListingPage/>} />
-        <Route path="details" element= {<ObjectDetail/>}/>
+        <Route path="details" element= {<ObjectDetail />}/>
       </Routes>
      
     </div>

@@ -1,7 +1,6 @@
 import {Link } from "react-router-dom";
 import './ListingPage.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ObjectDetail from "../ObjectDetail/ObjectDetail";
 
 const ListingPage = () => {
 
